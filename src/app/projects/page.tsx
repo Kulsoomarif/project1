@@ -2,6 +2,7 @@ export default function ProductGrid() {
   const products = [
     {
       id: 1,
+      
       image: "/project/images.png",
       description: "Personal Port folio",
       'GitHub Repository':"https://github.com/Kulsoomarif/portfolio",
